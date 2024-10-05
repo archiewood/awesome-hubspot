@@ -6,6 +6,7 @@ Awesome list of HubSpot tools and libraries.
 - [lorey/totally-not-jarvis](https://github.com/lorey/totally-not-jarvis): A personal assisstant bot with HubSpot integration
 - [lorey/hubspot-contact-import](https://github.com/lorey/hubspot-contact-import): A HubSpot import tool for vcards and Xing
 - [lorey/hubspot-reporting](https://github.com/lorey/hubspot-reporting): Generate diagrams from your hubspot data automatically
+- [archiewood/hubspot-shortcuts](https://github.com/archiewood/hubspot-shortcuts): The missing keyboard shortcuts for Hubspot
 
 ## Integrations
 
